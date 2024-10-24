@@ -1,0 +1,81 @@
+a.curriAline {
+    color: #E9EFEC;
+}
+
+.roboto-regular {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+
+.topBcgSobre {
+    background-color: #e5d6f3;
+    width: 9%;
+}
+
+.topBcgFormacao {
+    background-color:  #e5d6f3;
+    text-align: center;
+    justify-content: center;
+    height: auto;
+    width: 55%;
+    margin-left: 25%;
+}
+
+.topBcgExperiencia {
+    background-color: #e5d6f3;
+    width: 55%;
+    margin-top: 5%;
+    margin-left: 25%;
+}
+
+.topBcgContato {
+    background-color: #e5d6f3;
+    width: 26%;
+}
+
+.bcgColor {
+    background-color: #e6e1ef;
+    
+}
+
+.text-justify {
+    text-align: center;
+}
+
+.margin {
+    padding: 30px;
+}
+
+.container-dffs {
+    text-align: center;
+    justify-content: center;
+    height: auto;
+    width: 55%;
+    margin-left: 25%;
+}
+
+#foto {
+    width: 80%;
+}
+
+
+#curriAline {
+    
+    background-color: #6c5a7d;
+    color: #ffffff;
+}
+
+#apresentacao {
+    padding-top: 70px;
+    scroll-margin-top: 40px;
+}
+
+#sobre {
+    scroll-margin-top: 40px;
+}
+
+#formacao {
+    scroll-margin-top: 40px;
+}
